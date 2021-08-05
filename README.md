@@ -1,5 +1,5 @@
 # self-balancing-robot
-It is a bot having 2 wheels. Also provided code that balances it and also balances payload depends upon the structure and material you used to build it. I suggest you make a Prototype Model first so you are able to get that how this little dude works(The bot). My Model is approx. 10 inches in height & 3 inches in breadth & 5 inches in length.
+It is a bot having 2 wheels. Also provided code that balances it and also balances payload depends upon the structure and material you used to build it.My Model is approx. 10 inches in height & 3 inches in breadth & 5 inches in length.
 
 The Bot consists of the following things:-
 
